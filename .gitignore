@@ -19,3 +19,4 @@
 # OS/General
 .DS_Store
 Thumbs.db
+/Source/Maya/incrementalSave
